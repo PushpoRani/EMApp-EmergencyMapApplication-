@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WizardSettings">
+    <option name="children">
+      <map>
+        <entry key="imageWizard">
+          <value>
+            <PersistentState>
+              <option name="children">
+                <map>
+                  <entry key="imageAssetPanel">
+                    <value>
+                      <PersistentState>
+                        <option name="children">
+                          <map>
+                            <entry key="actionbar">
+                              <value>
+                                <PersistentState>
+                                  <option name="children">
+                                    <map>
+                                      <entry key="image">
+                                        <value>
+                                          <PersistentState>
+                                            <option name="values">
+                                              <map>
+                                                <entry key="trimmed" value="true" />
+                                              </map>
+                                            </option>
+                                          </PersistentState>
+                                        </value>
+                                      </entry>
+                                    </map>
+                                  </option>
+                                  <option name="values">
+                                    <map>
+                                      <entry key="assetType" value="IMAGE" />
+                                      <entry key="imageAsset" value="E:\FinalProject\icons\ic_current_location.png" />
+                                      <entry key="outputName" value="ic_current_location" />
+                                      <entry key="theme" value="HOLO_DARK" />
+                                    </map>
+                                  </option>
+                                </PersistentState>
+                              </value>
+                            </entry>
+                            <entry key="launcher">
+                              <value>
+                                <PersistentState>
+                                  <option name="children">
+                                    <map>
+                                      <entry key="foregroundImage">
+                                        <value>
+                                          <PersistentState>
+                                            <option name="values">
+                                              <map>
+                                                <entry key="scalingPercent" value="69" />
+                                              </map>
+                                            </option>
+                                          </PersistentState>
+                                        </value>
+                                      </entry>
+                                    </map>
+                                  </option>
+                                  <option name="values">
+                                    <map>
+                                      <entry key="foregroundImage" value="E:\FinalProject\final logo.png" />
+                                      <entry key="outputName" value="Emapp_logo" />
+                                    </map>
+                                  </option>
+                                </PersistentState>
+                              </value>
+                            </entry>
+                          </map>
+                        </option>
+                        <option name="values">
+                          <map>
+                            <entry key="outputIconType" value="ACTIONBAR" />
+                          </map>
+                        </option>
+                      </PersistentState>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </PersistentState>
+          </value>
+        </entry>
+        <entry key="vectorWizard">
+          <value>
+            <PersistentState>
+              <option name="children">
+                <map>
+                  <entry key="vectorAssetStep">
+                    <value>
+                      <PersistentState>
+                        <option name="children">
+                          <map>
+                            <entry key="clipartAsset">
+                              <value>
+                                <PersistentState>
+                                  <option name="values">
+                                    <map>
+                                      <entry key="url" value="jar:file:/C:/Program%20Files/Android/Android%20Studio/plugins/android/lib/android.jar!/images/material_design_icons/content/ic_add_black_24dp.xml" />
+                                    </map>
+                                  </option>
+                                </PersistentState>
+                              </value>
+                            </entry>
+                          </map>
+                        </option>
+                        <option name="values">
+                          <map>
+                            <entry key="outputName" value="ic_add" />
+                            <entry key="sourceFile" value="C:\Users\USER" />
+                          </map>
+                        </option>
+                      </PersistentState>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </PersistentState>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

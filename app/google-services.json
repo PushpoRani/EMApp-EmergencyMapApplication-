@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "989464817624",
+    "firebase_url": "https://emapp-84706.firebaseio.com",
+    "project_id": "emapp-84706",
+    "storage_bucket": "emapp-84706.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:989464817624:android:74e83a0cfaeb1a1a",
+        "android_client_info": {
+          "package_name": "pushpo.emapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "989464817624-djij8050uhjoh4683b90ei4ipa73ttpb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pushpo.emapp",
+            "certificate_hash": "b74d60a7698678a885f2f768be44e7bb7a05ded7"
+          }
+        },
+        {
+          "client_id": "989464817624-qjt3ifl6f1s7rjrufvhjpoegur3kpplh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDi1_v8iLLph4Fg1X9T4ka6e4IwY79JqHw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "989464817624-qjt3ifl6f1s7rjrufvhjpoegur3kpplh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activity.MainActivity">
+
+    <ImageView
+        android:id="@+id/full_logo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="100dp"
+        android:background="@drawable/login2"/>
+
+
+
+    <Button
+        android:id="@+id/fb_login_button"
+        android:layout_width="300dp"
+        android:layout_height="50dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="400dp"
+        android:background="@drawable/btn_round_fb"
+        android:drawableLeft="@drawable/fb_white"
+        android:paddingLeft="50dp"
+        android:paddingRight="55dp"
+        android:drawablePadding="10dp"
+        android:text="Log in with Facebook"
+        android:textAllCaps="false"
+        android:textColor="#ffffff"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/google_login_button"
+        android:layout_width="300dp"
+        android:layout_height="50dp"
+        android:layout_below="@+id/fb_login_button"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/btn_round_gmail"
+        android:drawableLeft="@drawable/gplus"
+        android:paddingLeft="50dp"
+        android:paddingRight="80dp"
+        android:drawablePadding="10dp"
+        android:text="Log in with Gmail"
+        android:textAllCaps="false"
+        android:textColor="#ffffff"
+        android:textStyle="bold" />
+
+</RelativeLayout>

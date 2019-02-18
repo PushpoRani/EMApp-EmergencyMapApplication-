@@ -1,0 +1,103 @@
+<resources>
+    <string name="app_name">EMapp</string>
+    <string name="facebook_app_id">244969172808357</string>
+    <string name="fb_login_protocol_scheme">fb244969172808357</string>
+    <string name="title_activity_maps">Map</string>
+
+
+    <string name="ambulance">Ambulance</string>
+    <string name="public_toilet">Public_Toilet</string>
+    <string name="atm">Atm</string>
+    <string name="bank">Bank</string>
+    <string name="beauty_salon">Beauty_Salon</string>
+    <string name="book_store">Book_Store</string>
+
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_place_list_on_map">PlaceListOnMap</string>
+    <string name="small_location_icon">Small Location Icon</string>
+    <string name="small_call_icon">Small Call Icon</string>
+    <string name="small_website_icon">Small Website Icon</string>
+    <string name="small_location_status_icon">Small Location Status Icon</string>
+    <string name="no_review_found">No Review Found</string>
+    <string name="location_icon">Location Icon</string>
+    <string name="place_list_icon">Place List Icon</string>
+    <string name="near_by_tag">Near By </string>
+    <string name="no_near_by_tag">No Near By</string>
+    <string name="no_near_by_place_found">No Near By Place Found</string>
+    <string name="favourite_icon">Favourite Icon</string>
+    <string name="website_icon">Website Icon</string>
+    <string name="phone_icon">Phone Icon</string>
+    <string name="call">CALL</string>
+    <string name="website">WEBSITE</string>
+    <string name="favourite">FAVOURITE</string>
+    <string name="place_icon">Place Icon</string>
+    <string name="share_button">Share Button</string>
+    <string name="list_tag">List</string>
+    <string name="found">Found</string>
+    <string name="open_now">Open Now</string>
+    <string name="closed">Closed</string>
+    <string name="place_added_to_favourite_string">Place Added to Favourite List</string>
+    <string name="place_removed_to_favourite_string">Place removed from Favourite List</string>
+    <string name="username">Username</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="share">Share</string>
+    <string name="favourite_menu_item">Favourite</string>
+    <string name="menu_search">Search Place</string>
+    <string name="search_hint">Ambulance, ATM, Blood Bank</string>
+    <string name="search_result_string">Search Result</string>
+    <string name="about_string">ABOUT</string>
+    <string name="review_string">REVIEW</string>
+    <string name="call_permission_title">Call Permission</string>
+    <string name="call_permission_message"> We can\'t call anyone without the call permission, could you please grant it?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No thanks</string>
+    <string name="location_permission_title">Location Permission</string>
+    <string name="location_permission_message">We can\'t get Near By Location without location permission, could you please grant it?</string>
+    <string name="website_not_registered_string">Website not Registered</string>
+    <string name="phone_number_not_registered_string">Phone Number not Registered</string>
+    <string name="favourite_place_list_string">Favourite Place List</string>
+    <string name="share_link_string">Share Link</string>
+    <string name="turn_on_gps_message">Please Turn on GPS</string>
+    <string name="launcher_icon">Launcher Icon</string>
+    <string name="no_connection_string">No Internet Connection</string>
+    <string name="feedback">Feedback</string>
+    <string name="about">About</string>
+    <string name="version_text">Version 1.0</string>
+    <string name="developed_by_text">Developed By:
+                                            Samia Sulatana Pushpo
+                                            Al-Amin Sharif Rishat
+                                            Tasnova Chowdhury</string>
+
+    <string name="gps_permission_title">Turn On GPS</string>
+    <string name="gps_permission_message">Please turn on GPS to detect current location.</string>
+    <string name="retry">Retry</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+
+    <string name="currentDeveloper">Current Developer</string>
+    <string name="currentDeveloperName">Al-Amin Rishat \n alamin.rishat@gmail.com</string>
+    <string name="currentDeveloperEmail">alamin.rishat@gmail.com</string>
+    <string name="projectType">Project Type and Info</string>
+    <string name="projectTypeDetails">BSc. 4th Year Final Project \n BUBT, Mirpur, Dhaka, Bangladesh</string>
+    <string name="bubtWebsiteHomePage">https://www.bubt.edu.bd/</string>
+    <string name="projectSuperVisor">Project Supervisor</string>
+    <string name="projectSuperName">Shamim Ahmed \n Assistant Professor \n Department of CSE, BUBT \n shamim.6feb@gmail.com</string>
+    <string name="projectSuperEmail">shamim.6feb@gmail.com</string>
+    <string name="developersDetailsLabel">Developers Details</string>
+    <string name="firstDeveloperDetails">Al-Amin Rishat \n Intake: 27, Dept of CSE, BUBT \n alamin.rishat@gmail.com</string>
+    <string name="firstDeveloperEmail">alamin.rishat4@gmail.com</string>
+    <string name="firstDeveloperFacebook">https://www.facebook.com/riishaatt</string>
+    <string name="secondDeveloperDetails">Samia Sultana Pushpo \n Intake: 27, Dept of CSE, BUBT \n pushporani67@gmail.com</string>
+    <string name="secondDeveloperEmail">pushporani67@gmail.com</string>
+    <string name="secondDeveloperFacebook">https://www.facebook.com/pushpo.rani</string>
+    <string name="thirdDeveloperDetails">Tasnova Chowdhury \n Intake: 27, Dept of CSE, BUBT \n tasnova0303@gmail.com</string>
+    <string name="thirdDeveloperEmail">tasnova0303@gmail.com</string>
+    <string name="thirdDeveloperFacebook">https://www.facebook.com/pushpo.rani</string>
+    <string name="about_us">About</string>
+    <string name="version">Version 1.0</string>
+    <string name="shortDetails">Tap on a icon to see nearby places and to call or visit their website, choose what places you want to explore from a list view. Also tap on a marker title to get the direction from current location. \n If you find this app useful do not forget to share and give us a shoutout.</string>
+
+
+</resources>
